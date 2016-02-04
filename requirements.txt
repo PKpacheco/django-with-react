@@ -1,0 +1,5 @@
+Django==1.9.2
+optional-django==0.3.0
+react==2.0.2
+requests==2.9.1
+wheel==0.26.0
